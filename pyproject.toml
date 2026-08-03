@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pdscanner"
+version = "0.1.0"
+description = "Automated project dependency scanner and installer CLI for developer workspaces"
+readme = "README.md"
+authors = [{ name = "Lucas Almeida" }]
+license = { text = "MIT" }
+requires-python = ">=3.8"
+keywords = ["cli", "dependencies", "scanner", "npm", "node", "python", "developer-tools"]
+
+[project.scripts]
+pdscanner = "pdscanner:main"
+pdscan = "pdscanner:main"
