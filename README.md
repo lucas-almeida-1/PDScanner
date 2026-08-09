@@ -33,13 +33,13 @@ PDScanner is a lightweight CLI tool designed to scan project root directories, c
 ### Option 1: Install with pipx (Recommended)
 
 ```bash
-pipx install git+https://github.com/YOUR_USERNAME/PDScanner.git
+pipx install git+https://github.com/lucas-almeida-1/PDScanner.git
 ```
 
 ### Option 2: Install with pip
 
 ```bash
-pip install git+https://github.com/YOUR_USERNAME/PDScanner.git
+pip install git+https://github.com/lucas-almeida-1/PDScanner.git
 ```
 
 ---
