@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pdscanner"
-version = "0.1.0"
+version = "0.2.0"
 description = "Automated project dependency scanner and installer CLI for developer workspaces"
 readme = "README.md"
 authors = [{ name = "Lucas Almeida" }]
